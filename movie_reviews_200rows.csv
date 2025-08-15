@@ -1,0 +1,201 @@
+id,movie_title,reviewer_name,review_date,rating,review,sentiment_to_num
+1,The Lion King,baileydavid,2021-10-04,2.0,Not worth the hype.,0
+2,The Godfather,samanthaturner,2024-07-10,3.0,Terrible acting.,0
+3,The Lion King,drodriguez,2015-12-31,7.7,A must-watch.,1
+4,Titanic,andrea31,2023-08-20,6.3,Absolutely loved it!,1
+5,Inception,paula97,2015-10-19,1.8,Disappointing plot.,0
+6,Interstellar,christophercaldwell,2021-09-25,6.4,A must-watch.,1
+7,The Godfather,curtisbrianna,2017-08-26,7.4,A must-watch.,1
+8,Pulp Fiction,nicholasolson,2024-12-24,3.0,Felt too long and dragging.,0
+9,The Dark Knight,sheryl94,2016-07-19,8.3,Absolutely loved it!,1
+10,Joker,tanyahernandez,2023-06-28,8.3,An emotional rollercoaster.,1
+11,Forrest Gump,lisajohnson,2015-12-10,3.5,Disappointing plot.,0
+12,Joker,gmcdonald,2019-04-12,4.0,Terrible acting.,0
+13,Pulp Fiction,christopherboyer,2020-10-10,1.9,Poor direction and editing.,0
+14,Gladiator,gferguson,2023-03-12,3.4,Boring and predictable.,0
+15,Avengers: Endgame,jamesmontgomery,2016-09-03,5.1,Terrible acting.,0
+16,Coco,annethomas,2020-02-27,4.4,Couldn’t connect with the story.,0
+17,The Dark Knight,brandymarquez,2020-11-01,8.5,Impressive visuals and great soundtrack.,1
+18,Coco,angela55,2016-10-13,8.8,Impressive visuals and great soundtrack.,1
+19,The Godfather,thomasjohn,2024-11-07,7.3,Absolutely loved it!,1
+20,The Lion King,jonessabrina,2019-06-09,3.1,Not worth the hype.,0
+21,Titanic,collinsfrank,2019-12-25,8.7,A masterpiece!,1
+22,Pulp Fiction,kellypatrick,2019-05-05,3.5,Poor direction and editing.,0
+23,The Shawshank Redemption,luke97,2021-07-10,4.3,Disappointing plot.,0
+24,The Lion King,donna19,2020-05-23,3.4,Terrible acting.,0
+25,Gladiator,tinarodriguez,2019-06-01,6.7,A must-watch.,1
+26,Avengers: Endgame,william37,2021-03-04,3.2,Uninspiring and dull.,0
+27,Pulp Fiction,xmathis,2023-09-30,3.4,Couldn’t connect with the story.,0
+28,The Godfather,kelseydavis,2020-04-12,7.2,Absolutely loved it!,1
+29,The Godfather,melissawhitney,2023-10-03,8.4,Loved every moment.,1
+30,Pulp Fiction,johnsonvictor,2020-06-07,3.4,Disappointing plot.,0
+31,Coco,vramirez,2019-07-22,9.5,Loved every moment.,1
+32,The Godfather,allison69,2022-06-26,6.9,An emotional rollercoaster.,1
+33,Coco,dluna,2020-10-23,9.2,Highly recommended!,1
+34,The Shawshank Redemption,stacymcmillan,2025-05-08,3.4,Disappointing plot.,0
+35,Avengers: Endgame,melissadavis,2024-12-25,6.1,One of the best movies ever!,1
+36,Avengers: Endgame,cvelazquez,2016-11-15,6.3,Impressive visuals and great soundtrack.,1
+37,Pulp Fiction,thompsonemily,2022-10-24,4.3,Waste of time.,0
+38,Interstellar,qsnow,2019-01-18,5.4,Boring and predictable.,0
+39,La La Land,pittmangeorge,2020-09-19,2.0,Waste of time.,0
+40,Joker,gracemay,2024-11-08,7.1,Impressive visuals and great soundtrack.,1
+41,Titanic,zgray,2024-09-11,4.5,Felt too long and dragging.,0
+42,The Matrix,claudiajohnson,2022-02-16,5.8,Couldn’t connect with the story.,0
+43,La La Land,wadebobby,2016-06-26,9.5,A masterpiece!,1
+44,The Lion King,tonya92,2017-04-05,9.0,One of the best movies ever!,1
+45,Joker,lori95,2022-05-12,6.8,A masterpiece!,1
+46,The Dark Knight,dakotafrye,2021-08-24,4.9,Uninspiring and dull.,0
+47,Inception,thomasdaisy,2019-11-26,9.6,One of the best movies ever!,1
+48,Interstellar,tuckeralicia,2020-09-02,7.9,A must-watch.,1
+49,Coco,eric28,2018-07-10,2.0,Not worth the hype.,0
+50,La La Land,jasonhowell,2023-07-16,6.8,Impressive visuals and great soundtrack.,1
+51,The Godfather,samanthaolsen,2023-09-21,2.4,Waste of time.,0
+52,Interstellar,jgarcia,2021-10-13,9.6,A must-watch.,1
+53,Coco,wbrown,2021-12-20,1.0,Poor direction and editing.,0
+54,The Matrix,bthomas,2025-06-02,1.2,Poor direction and editing.,0
+55,Coco,wilkersonsandra,2022-04-18,9.9,One of the best movies ever!,1
+56,The Godfather,haleanthony,2022-01-15,1.5,Felt too long and dragging.,0
+57,Titanic,patelemily,2021-07-15,1.8,Uninspiring and dull.,0
+58,La La Land,danielmoreno,2017-12-03,1.6,Couldn’t connect with the story.,0
+59,Joker,fmitchell,2020-03-17,2.1,Uninspiring and dull.,0
+60,Interstellar,karen22,2016-02-15,2.5,Couldn’t connect with the story.,0
+61,La La Land,lnorris,2017-09-10,6.5,A cinematic gem!,1
+62,Coco,josephrichardson,2017-03-13,5.9,Disappointing plot.,0
+63,Avengers: Endgame,breid,2021-05-15,3.8,Poor direction and editing.,0
+64,The Matrix,david76,2023-07-29,9.1,Highly recommended!,1
+65,Titanic,natashawalton,2018-11-09,3.2,Terrible acting.,0
+66,Forrest Gump,christopher44,2018-12-24,1.2,Couldn’t connect with the story.,0
+67,The Godfather,michelle02,2020-04-19,6.3,Absolutely loved it!,1
+68,Titanic,wanderson,2021-02-23,7.4,Absolutely loved it!,1
+69,The Godfather,wfisher,2018-12-31,1.6,Boring and predictable.,0
+70,La La Land,xbrooks,2024-06-22,4.0,Couldn’t connect with the story.,0
+71,The Godfather,jamesdavis,2018-01-28,3.5,Uninspiring and dull.,0
+72,The Godfather,nmoore,2019-05-13,5.9,Felt too long and dragging.,0
+73,Gladiator,smooney,2018-09-19,5.3,Uninspiring and dull.,0
+74,Joker,christine65,2024-08-20,4.7,Terrible acting.,0
+75,Titanic,elizabethhunt,2022-02-24,6.9,Loved every moment.,1
+76,Pulp Fiction,emily02,2017-08-24,4.7,Boring and predictable.,0
+77,The Lion King,mirandamorales,2016-08-14,6.9,A masterpiece!,1
+78,Inception,joseph04,2022-05-14,4.6,Poor direction and editing.,0
+79,Joker,jorgegilbert,2018-02-07,8.8,A cinematic gem!,1
+80,The Godfather,jessetaylor,2015-08-26,2.7,Uninspiring and dull.,0
+81,The Shawshank Redemption,ian01,2016-12-10,4.8,Not worth the hype.,0
+82,The Matrix,brad42,2025-07-14,3.2,Terrible acting.,0
+83,The Matrix,teresamedina,2016-12-19,8.3,A must-watch.,1
+84,Titanic,jacquelineandrews,2024-06-14,1.5,Couldn’t connect with the story.,0
+85,La La Land,dianawalter,2020-11-14,1.1,Terrible acting.,0
+86,Coco,theresa16,2021-04-04,7.8,A cinematic gem!,1
+87,The Shawshank Redemption,richard36,2016-05-08,4.7,Uninspiring and dull.,0
+88,The Godfather,brenda40,2023-06-15,8.8,Absolutely loved it!,1
+89,The Shawshank Redemption,stephensharp,2017-01-20,4.4,Lacked depth.,0
+90,The Dark Knight,barbara85,2024-05-19,9.3,Highly recommended!,1
+91,The Dark Knight,xgarza,2016-06-30,4.8,Couldn’t connect with the story.,0
+92,The Lion King,higginschristina,2015-12-31,7.5,Brilliant acting and story.,1
+93,The Godfather,judith80,2024-05-06,3.7,Boring and predictable.,0
+94,Gladiator,aaron64,2024-06-22,7.6,Absolutely loved it!,1
+95,Avengers: Endgame,taraparker,2016-02-09,3.8,Boring and predictable.,0
+96,Gladiator,nelsonerika,2021-12-30,5.3,Couldn’t connect with the story.,0
+97,The Shawshank Redemption,lturner,2018-03-04,1.5,Couldn’t connect with the story.,0
+98,Titanic,cassidydiaz,2017-03-29,8.7,A masterpiece!,1
+99,Gladiator,khunt,2015-08-03,1.6,Disappointing plot.,0
+100,Pulp Fiction,aguilarchase,2023-07-27,2.1,Felt too long and dragging.,0
+101,The Godfather,hannahbryant,2022-03-26,6.2,Absolutely loved it!,1
+102,Gladiator,mevans,2019-06-27,1.7,Felt too long and dragging.,0
+103,Gladiator,jackweaver,2023-01-04,5.7,Not worth the hype.,0
+104,The Godfather,johnsondominique,2018-09-04,7.0,Loved every moment.,1
+105,The Godfather,jruiz,2023-09-13,3.4,Waste of time.,0
+106,The Lion King,meganjackson,2018-01-14,6.8,Highly recommended!,1
+107,Forrest Gump,bmccoy,2018-06-13,9.4,A masterpiece!,1
+108,Inception,taylorjoseph,2020-03-11,5.1,Felt too long and dragging.,0
+109,Titanic,stephanie33,2016-05-10,1.7,Disappointing plot.,0
+110,Interstellar,misty08,2017-05-01,3.4,Poor direction and editing.,0
+111,Coco,andreaanderson,2020-12-29,1.6,Disappointing plot.,0
+112,Forrest Gump,afarrell,2023-11-02,3.6,Uninspiring and dull.,0
+113,La La Land,haroldsmith,2016-03-30,5.9,Not worth the hype.,0
+114,Gladiator,hallcraig,2023-03-07,9.9,A must-watch.,1
+115,Inception,hudsongloria,2020-02-23,7.0,A must-watch.,1
+116,The Dark Knight,gjackson,2024-08-27,9.4,A masterpiece!,1
+117,Coco,pamelarichardson,2024-05-28,2.2,Terrible acting.,0
+118,Coco,nicole23,2018-11-16,2.0,Couldn’t connect with the story.,0
+119,The Shawshank Redemption,jennifer39,2021-12-23,3.5,Felt too long and dragging.,0
+120,The Godfather,pjones,2018-05-26,7.5,A cinematic gem!,1
+121,The Lion King,cristinaashley,2023-06-04,6.7,One of the best movies ever!,1
+122,Interstellar,hunterdavid,2021-11-29,5.4,Boring and predictable.,0
+123,Titanic,walkerstephanie,2024-09-24,6.7,One of the best movies ever!,1
+124,Inception,dianacarey,2025-07-02,1.0,Waste of time.,0
+125,The Lion King,danielle02,2025-01-02,9.8,Brilliant acting and story.,1
+126,Avengers: Endgame,brandtjoseph,2024-03-09,5.0,Lacked depth.,0
+127,Interstellar,megan08,2024-02-06,1.1,Terrible acting.,0
+128,Coco,cookcarly,2016-01-28,7.2,Brilliant acting and story.,1
+129,Interstellar,robertclay,2023-08-30,1.3,Poor direction and editing.,0
+130,Gladiator,donald20,2024-10-05,6.0,Lacked depth.,0
+131,The Shawshank Redemption,bauereric,2022-03-18,1.4,Poor direction and editing.,0
+132,Coco,ecampbell,2020-09-06,9.4,Absolutely loved it!,1
+133,Coco,flemingapril,2022-04-25,4.2,Disappointing plot.,0
+134,The Lion King,deborah45,2018-02-07,1.9,Couldn’t connect with the story.,0
+135,Coco,hillallen,2023-05-06,8.9,Impressive visuals and great soundtrack.,1
+136,Avengers: Endgame,martinezbrooke,2016-12-13,2.4,Disappointing plot.,0
+137,La La Land,frostalexandra,2019-01-06,2.5,Waste of time.,0
+138,Coco,kevinsullivan,2016-02-19,4.7,Waste of time.,0
+139,Avengers: Endgame,daltonjordan,2019-10-05,9.3,An emotional rollercoaster.,1
+140,Joker,kevin64,2022-10-14,7.0,A cinematic gem!,1
+141,The Dark Knight,blackjamie,2022-09-28,2.4,Terrible acting.,0
+142,Pulp Fiction,frankcrystal,2017-04-01,8.8,Highly recommended!,1
+143,The Godfather,lisa43,2020-10-09,2.8,Uninspiring and dull.,0
+144,Forrest Gump,ghenderson,2019-07-03,3.7,Disappointing plot.,0
+145,The Godfather,harpergabriela,2019-10-09,1.2,Disappointing plot.,0
+146,Pulp Fiction,lyoung,2021-02-22,4.0,Terrible acting.,0
+147,Joker,mosstiffany,2021-09-01,3.5,Couldn’t connect with the story.,0
+148,Pulp Fiction,elizabeth35,2016-04-03,7.1,A must-watch.,1
+149,Forrest Gump,cruzshawn,2016-01-20,9.5,A masterpiece!,1
+150,Coco,wilsoncynthia,2018-11-23,9.7,Brilliant acting and story.,1
+151,Gladiator,pross,2025-02-20,9.7,One of the best movies ever!,1
+152,Inception,joshua83,2015-12-26,2.0,Lacked depth.,0
+153,Forrest Gump,kristinbowers,2018-03-16,7.6,Loved every moment.,1
+154,Pulp Fiction,julie03,2025-06-28,6.5,A must-watch.,1
+155,Titanic,hollyforbes,2021-11-11,4.5,Felt too long and dragging.,0
+156,The Godfather,martin13,2017-07-26,3.3,Lacked depth.,0
+157,Inception,abutler,2025-01-17,5.7,Couldn’t connect with the story.,0
+158,The Lion King,contrerasvictor,2020-10-12,7.5,A cinematic gem!,1
+159,Forrest Gump,bobbygarcia,2015-11-06,4.9,Poor direction and editing.,0
+160,Gladiator,devin01,2024-11-20,3.8,Terrible acting.,0
+161,Avengers: Endgame,kyle81,2025-06-02,9.1,A must-watch.,1
+162,The Dark Knight,mitchellchad,2019-05-04,7.0,Loved every moment.,1
+163,Pulp Fiction,fbruce,2016-02-04,7.3,A must-watch.,1
+164,The Shawshank Redemption,linda82,2019-08-18,2.7,Lacked depth.,0
+165,The Lion King,ashley60,2016-02-23,7.7,Brilliant acting and story.,1
+166,Gladiator,harrisonjulia,2024-07-26,6.1,An emotional rollercoaster.,1
+167,Interstellar,hunter63,2018-11-01,8.5,One of the best movies ever!,1
+168,The Dark Knight,toneal,2021-07-22,2.9,Felt too long and dragging.,0
+169,Gladiator,kathryndavis,2023-06-02,6.9,Highly recommended!,1
+170,The Matrix,cooperdonna,2020-06-13,5.0,Disappointing plot.,0
+171,Interstellar,rbell,2025-07-27,5.3,Waste of time.,0
+172,The Lion King,fosterdanielle,2021-05-12,1.8,Couldn’t connect with the story.,0
+173,The Lion King,whitneysalazar,2016-12-10,6.7,Loved every moment.,1
+174,Titanic,danielnewton,2025-01-11,8.4,A cinematic gem!,1
+175,The Lion King,cynthiawheeler,2023-09-25,3.8,Disappointing plot.,0
+176,The Shawshank Redemption,alexander10,2019-04-05,1.2,Disappointing plot.,0
+177,The Matrix,karla74,2021-03-29,6.5,A masterpiece!,1
+178,The Matrix,carrie00,2020-04-02,4.7,Felt too long and dragging.,0
+179,The Godfather,miaporter,2020-08-02,7.5,An emotional rollercoaster.,1
+180,The Matrix,michelleporter,2019-12-28,4.6,Waste of time.,0
+181,The Lion King,annejones,2025-05-13,7.2,A masterpiece!,1
+182,Joker,obriencynthia,2018-12-08,4.8,Waste of time.,0
+183,Joker,robertspamela,2015-08-24,9.6,A must-watch.,1
+184,The Matrix,xjohnson,2023-12-18,1.5,Disappointing plot.,0
+185,Coco,hartmanheather,2024-11-15,8.6,Highly recommended!,1
+186,The Shawshank Redemption,christopher82,2021-03-24,8.2,A must-watch.,1
+187,Interstellar,jameswalker,2023-01-04,6.4,Highly recommended!,1
+188,Gladiator,eddieleonard,2020-12-02,8.3,A must-watch.,1
+189,Pulp Fiction,sarah82,2022-06-26,8.5,A must-watch.,1
+190,The Matrix,james66,2022-11-08,9.1,Highly recommended!,1
+191,The Matrix,robertkim,2025-03-28,3.3,Disappointing plot.,0
+192,La La Land,amanda20,2023-04-17,6.7,A must-watch.,1
+193,The Matrix,tommy98,2018-12-06,6.6,One of the best movies ever!,1
+194,The Matrix,victoria53,2024-02-18,1.7,Not worth the hype.,0
+195,The Godfather,jonathoncross,2022-10-24,3.4,Poor direction and editing.,0
+196,Coco,peter13,2020-09-12,5.9,Waste of time.,0
+197,The Shawshank Redemption,megan43,2018-07-09,3.1,Waste of time.,0
+198,Avengers: Endgame,william88,2016-04-28,2.9,Lacked depth.,0
+199,Pulp Fiction,richardwinters,2019-01-11,4.0,Uninspiring and dull.,0
+200,Pulp Fiction,vanessa69,2016-11-20,1.6,Lacked depth.,0
